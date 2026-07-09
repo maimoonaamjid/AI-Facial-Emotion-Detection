@@ -1,9 +1,7 @@
 # 😊 AI-Based Facial Emotion Detection System
 
 <p align="center">
-
-<img src="banner.png" width="100%">
-
+  <img src="github-banner.png" width="100%">
 </p>
 
 <p align="center">
