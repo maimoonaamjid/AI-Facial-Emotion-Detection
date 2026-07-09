@@ -218,7 +218,7 @@ Press **Q** to quit.
 
 # 📊 Dataset
 
-The project is trained on facial expression images containing seven emotion classes.
+The project is trained on facial expression images containing seven emotion classes. You can download this dataset from https://www.kaggle.com/datasets/msambare/fer2013
 
 Dataset Structure
 
