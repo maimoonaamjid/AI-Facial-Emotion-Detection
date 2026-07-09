@@ -203,7 +203,7 @@ Press **Q** to quit.
 ## Home
 
 <p align="center">
-<img src="assets/screenshot1.png" width="700">
+<img src="screenshot1.png" width="700">
 </p>
 
 ---
@@ -211,7 +211,7 @@ Press **Q** to quit.
 ## Live Detection
 
 <p align="center">
-<img src="assets/screenshot2.png" width="700">
+<img src="screenshot2.png" width="700">
 </p>
 
 ---
